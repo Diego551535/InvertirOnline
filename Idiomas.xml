@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Idiomas>
+  <Castellano>
+    <Forma>forma</Forma>
+    <Formas>formas</Formas>
+    <Total>TOTAL:&lt;br/&gt;</Total>
+    <ReporteFormas>&lt;h1&gt;Reporte de Formas&lt;/h1&gt;</ReporteFormas>
+    <ListaVaciaFormas>&lt;h1&gt;Lista vacía de formas!&lt;/h1&gt;</ListaVaciaFormas>
+    <Area>Area</Area>
+    <Perimetro>Perimetro</Perimetro>
+    <Circulo>Círculo</Circulo>
+    <Circulos>Círculos</Circulos>
+    <Triangulo>Triángulo</Triangulo>
+    <Triangulos>Triángulos</Triangulos>
+    <Trapecio>Trapecio</Trapecio>
+    <Trapecios>Trapecios</Trapecios>
+    <Cuadrado>Cuadrado</Cuadrado>
+    <Cuadrados>Cuadrados</Cuadrados>
+  </Castellano>
+  <Ingles>
+    <Forma>shape</Forma>
+    <Formas>shapes</Formas>
+    <Total>TOTAL:&lt;br/&gt;</Total>
+    <ReporteFormas>&lt;h1&gt;Shapes report&lt;/h1&gt;</ReporteFormas>
+    <ListaVaciaFormas>&lt;h1&gt;Empty list of shapes!&lt;/h1&gt;</ListaVaciaFormas>
+    <Area>Area</Area>
+    <Perimetro>Perimeter</Perimetro>
+    <Circulo>Circle</Circulo>
+    <Circulos>Circles</Circulos>
+    <Triangulo>Triangle</Triangulo>
+    <Triangulos>Triangles</Triangulos>
+    <Trapecio>Trapezium</Trapecio>
+    <Trapecios>Trapeziums</Trapecios>
+    <Cuadrado>Square</Cuadrado>
+    <Cuadrados>Squares</Cuadrados>
+  </Ingles>
+</Idiomas>
